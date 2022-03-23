@@ -1,4 +1,4 @@
-
+<img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/Alejandra%20Avitia%20Da.png" alt="banner that says Alejandra Avitia-Davila - software developer, artist, designer">
 <p align ="center">
   <a href ="mailto:aleavitia03@gmail.com">
     <img alt="Email" width =40px src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
