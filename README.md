@@ -10,7 +10,7 @@
 </p>
 
 ---
-- 🔭 I’m currently working on my **B.S. in Computer Science** at **University of California, Riversdie**
+- 🔭 I’m currently working on my **B.S. in Computer Science** at **University of California, Riverside**
 - 🌱 I’m currently learning **GoLang**
 - 💬 Ask me about my projects! :)
 - 😄 Pronouns: [she/her](https://www.mypronouns.org/she-her)
