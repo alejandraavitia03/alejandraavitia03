@@ -1,5 +1,12 @@
-### Hi there 👋
 
+<p align ="center">
+  <a href ="mailto:aleavitia03@gmail.com">
+    <img alt="Email" width =40px src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
+  </a>
+  <a href ="https://www.linkedin.com/in/alejandra-avitia-davila-3a9364176/">
+    <img alt="LinkedIn" width =40px src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1648066406~hmac=c6972c894ba48937786a5735f3eb33b6">
+  </a>
+</p>
 <!--
 **alejandraavitia03/alejandraavitia03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
