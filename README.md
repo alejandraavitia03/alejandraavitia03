@@ -11,7 +11,7 @@
 
 ---
 - 🔭 I’m currently working on my **B.S. in Computer Science** at **University of California, Riverside**
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **GoLang** and building some **Arduino projects using the UNO R3**
 - 💬 Ask me about my projects! :)
 - 😄 Pronouns: [she/her](https://www.mypronouns.org/she-her)
 - ⚡ Fun fact: I have a pet bunny!
