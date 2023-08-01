@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height"200" src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.jpg" alt="positivity banner">
+  <img width="500" height"500" src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.jpg" alt="positivity banner">
 </p>
 <img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/octocat-1690928104851.png" alt="banner that says Alejandra Avitia-Davila - software developer, artist, designer">
 
