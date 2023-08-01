@@ -1,4 +1,4 @@
-<img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/Alejandra%20Avitia%20Da.png" alt="banner that says Alejandra Avitia-Davila - software developer, artist, designer">
+<img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/octocat-1690928104851.png" alt="banner that says Alejandra Avitia-Davila - software developer, artist, designer">
 
 <p align ="center">
   <a href ="mailto:aleavitia03@gmail.com">
