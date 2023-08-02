@@ -1,9 +1,10 @@
-<p align="center">
-  <img width="900" height"900" src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.jpg" alt="positivity banner">
-</p>
-<img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/octocat-1690928104851.png" alt="banner that says Alejandra Avitia-Davila - software developer, artist, designer">
+
+<img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/octocat-1690928104851.png" alt="banner that says Alejandra Avitia-Davila - software developer, artist, designer" width="400" align="right">
 
 <p align ="center">
+  <p align = "center">
+    <h1> Welcome! I'm Alejandra Avitia-Davila  </h1>
+    </p>
   <a href ="mailto:aleavitia03@gmail.com">
     <img alt="Email" width =40px src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
   </a>
@@ -37,6 +38,9 @@
 
 ![Alejandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandraavitia03&theme=moltack&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandraavitia03)](https://github.com/alejandraavitia03/github-readme-stats)
+</p>
+<p align="center">
+  <img width="900" height"900" src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.jpg" alt="positivity banner">
 </p>
 <!--
 **alejandraavitia03/alejandraavitia03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
