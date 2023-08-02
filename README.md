@@ -1,10 +1,10 @@
-
-<img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/octocat-1690928104851.png" alt="banner that says Alejandra Avitia-Davila - software developer, artist, designer" width="400" align="right">
-
+<p align = "center">
+  <h1> Hi, I'm Alejandra <img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" width="50"> </h1>
+  </p>
 <p align ="center">
-  <p align = "center">
-    <h1> Hi, I'm Alejandra Avitia-Davila <img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" width="50"> </h1>
-    </p>
+    <img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/Pink%20Pastel%20Gradient%20Welcome%20Discord%20Profile%20Banner.gif" alt="banner that says Alejandra Avitia-Davila - software developer, artist, designer" width="500" align="center">
+</p>
+<p align="center">
   <a href ="mailto:aleavitia03@gmail.com">
     <img alt="Email" width =40px src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
   </a>
