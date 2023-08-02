@@ -3,7 +3,7 @@
 
 <p align ="center">
   <p align = "center">
-    <h1> Welcome! I'm Alejandra Avitia-Davila  </h1>
+    <h1> Hi, I'm Alejandra Avitia-Davila <img src="https://github.com/alejandraavitia03/alejandraavitia03/blob/main/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" width="50"> </h1>
     </p>
   <a href ="mailto:aleavitia03@gmail.com">
     <img alt="Email" width =40px src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
